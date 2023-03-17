@@ -1,10 +1,10 @@
-# Quiz-application
+**###Quiz-application**
 
 Welcome to the Quiz App GitHub repository!
 
 This is a mobile application built using React Native, which allows users to take quizzes on various topics. The app fetches data from an API to display quiz questions and answers.
 
-#Installation
+**Installation**
 To run this app on your local machine, you'll need to have the following dependencies installed:
 
 Node.js
@@ -34,7 +34,7 @@ dependencies used:
     "react-navigation-stack": "^2.10.4"
   },
 
-Once the app is running, you'll be able to take quizzes . Simply select start from the home screen and start answering questions. The app will keep track of your score and display it at the end of the quiz.
+**Once the app is running, you'll be able to take quizzes . Simply select start from the home screen and start answering questions. The app will keep track of your score and display it at the end of the quiz.**
 
 
 
