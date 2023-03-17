@@ -1,4 +1,4 @@
-### Quiz-application
+#### Quiz-application
 
 Welcome to the Quiz App GitHub repository!
 
@@ -18,7 +18,8 @@ Install the required packages using npm install
 Start the development server using npm start
 Open the project in your preferred development environment (Xcode for iOS or Android Studio for Android)
 Build and run the app in your emulator or on your device
-Usage
+
+
 dependencies used:
  "dependencies": {
     "@react-native-community/masked-view": "^0.1.11",
