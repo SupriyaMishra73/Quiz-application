@@ -7,9 +7,11 @@ This is a mobile application built using React Native, which allows users to tak
 **Installation**
 To run this app on your local machine, you'll need to have the following dependencies installed:
 
-Node.js
-React Native CLI
+Node.js,
+React Native CLI,
 Android Studio (for Android development)
+
+
 Once you have these dependencies installed, follow these steps:
 
 
