@@ -1,4 +1,4 @@
-**###Quiz-application**
+### Quiz-application
 
 Welcome to the Quiz App GitHub repository!
 
